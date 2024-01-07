@@ -1,0 +1,7 @@
+textarea {
+    min-height: 400px;
+}
+
+#inbox-view, #sent-view, #archive-view {
+    display: 'none';
+}
